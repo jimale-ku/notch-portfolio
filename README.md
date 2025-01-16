@@ -10,6 +10,7 @@ This is my personal portfolio website where I showcase my projects and skills. T
 - Contact section to reach me
 - Smooth animations and transitions
 
+
 ## For Developers
 
 If you want to run this project on your computer:
@@ -25,7 +26,7 @@ If you want to run this project on your computer:
    ```bash
    npm run dev
    ```
-6. Open your browser and visit `http://localhost:5173`
+6. Open your browser by pressing ctrl + clicking cursor on the url in the terminal.
 
 ## Technologies I Used
 
