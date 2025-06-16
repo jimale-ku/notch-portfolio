@@ -37,8 +37,8 @@ If you want to run this project on your computer:
 
 ## See It Live
 
-You can visit my portfolio at: [Your Netlify URL]
+You can visit my portfolio at: [https://notch-portfolio22031.netlify.app]
 
 ## Want to Contact Me?
 
-Feel free to reach out to me at: [Your Email or Social Media Links]
+Feel free to reach out to me at: [yskaabey22031@gmail.com]
